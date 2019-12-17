@@ -1,0 +1,2 @@
+# Iris_flower_name_prediction
+Iris is very basic level dataset for practicing machine learning. It is so simple that the intial data is very clean and no extreme preprocessing required. Every machine learning beginner should have look on iris dataset. Its like a hello world program for machine learning. please find the .ipynb file attached. the code is very simple and I have mentioned every single step in detail. Happpy Learning.
